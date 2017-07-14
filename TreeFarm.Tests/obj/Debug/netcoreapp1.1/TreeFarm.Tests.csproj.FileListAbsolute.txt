@@ -1,0 +1,13 @@
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.Tests.deps.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.Tests.runtimeconfig.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.Tests.runtimeconfig.dev.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/obj/Debug/netcoreapp1.1/TreeFarm.Tests.AssemblyInfo.cs
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.Tests.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.Tests.pdb
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/bin/Debug/netcoreapp1.1/TreeFarm.pdb
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/obj/Debug/netcoreapp1.1/TreeFarm.Tests.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm.Tests/obj/Debug/netcoreapp1.1/TreeFarm.Tests.pdb

@@ -1,0 +1,8 @@
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp1.1/TreeFarm.deps.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp1.1/TreeFarm.runtimeconfig.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp1.1/TreeFarm.runtimeconfig.dev.json
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp1.1/TreeFarm.AssemblyInfo.cs
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp1.1/TreeFarm.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp1.1/TreeFarm.pdb
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp1.1/TreeFarm.dll
+/Users/tamela/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp1.1/TreeFarm.pdb
